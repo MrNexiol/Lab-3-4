@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 3–4</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="coordinate_x">Coordinate X: </string>
+    <string name="coordinate_y">Coordinate Y: </string>
+    <string name="coordinate_z">Coordinate Z: </string>
+</resources>
